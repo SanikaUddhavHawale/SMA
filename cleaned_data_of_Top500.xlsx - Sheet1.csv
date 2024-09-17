@@ -1,0 +1,501 @@
+address,Town,State,isHostedBySuperhost,location/lat,location/lng,name,numberOfGuests,pricing/rate/amount,roomType,stars
+"Manali, Himachal Pradesh, India",Manali," Himachal Pradesh, India",0,32.22,77.18,Highq Manali / Deluxe Room,3,8946,Room In Hotel,
+"Manali, Himachal Pradesh, India",Manali," Himachal Pradesh, India",0,32.22,77.18,Highq Manali / 3 Bhk Cottage,9,9124,Room In Hotel,
+"Goa, India",Goa, India,0,15.50,73.87,Best View Of The River From Your Terrace 04,4,9900,Private Room In Home,4.00
+"Bhuntar, Himachal Pradesh, India",Bhuntar," Himachal Pradesh, India",0,31.89,77.14,Shabashe,1,8684,Shared Room In Rental Unit,
+"Jaipur, Rajasthan, India",Jaipur," Rajasthan, India",0,26.86,75.67,Luxurious Independent Studio With Wifi & Kitchen,1,20690,Entire Condo,4.75
+"Bhuntar, Himachal Pradesh, India",Bhuntar," Himachal Pradesh, India",0,32.01,77.29,Aman Palace Guest House Kasol With Super Deluxe Room,3,4274,Room In Hotel,
+"Bhuntar, Himachal Pradesh, India",Bhuntar," Himachal Pradesh, India",0,32.01,77.29,Aman Palace Guest House Kasol With Deluxe Room,2,4274,Room In Hotel,
+"Gurugram, Haryana, India",Gurugram," Haryana, India",1,28.37,77.01,Boutique Destination Wedding Experience 50pax Pkg,16,1734,Farm Stay,
+"Ganaheda, Rajasthan, India",Ganaheda," Rajasthan, India",0,26.49,74.54,Lux Farm Resort With Pool - Villa,12,1804,Farm Stay,
+"Banjar, Himachal Pradesh, India",Banjar," Himachal Pradesh, India",0,31.64,77.35,Deluxe Room,3,2822,Room In Hotel,
+"Morjim, Goa, India",Morjim," Goa, India",0,15.63,73.73,"Vedatmana By The Waves, Morjim",12,902,Entire Villa,
+"Gurugram, Haryana, India",Gurugram," Haryana, India",0,28.36,77.00,Marriage Or Party Full Resort For 30 Persons,16,1443,Farm Stay,
+"Awas, Maharashtra, India",Awas," Maharashtra, India",0,18.77,72.88,Stayvista - Pranaam - 6bhk Luxury Alibaug,15,912,Entire Villa,
+"Bengaluru, Karnataka, India",Bengaluru," Karnataka, India",0,13.13,77.56,Luxury Poolside Heritage Villa In Lap Of Nature,16,882,Private Room In Resort,
+"Sangolda, Goa, India",Sangolda," Goa, India",0,15.55,73.81,12 Br Mansion | Big Groups | Private Pool | Scenic,16,1374,Entire Villa,
+"Rishikesh, Uttarakhand, India",Rishikesh," Uttarakhand, India",0,30.14,78.31,An Extravagant Pushp Villa Overlooking The Ganges,8,788,Entire Villa,
+"Parra, Goa, India",Parra," Goa, India",1,15.57,73.78,Perfect For Big Groups! 8br Villa W Pool In Parra,16,978,Entire Villa,
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.50,77.17,Brookwood Gardens Wedding Guest Rooms,16,962,Farm Stay,
+"Aru, India",Aru, India,0,34.09,75.26,Pahalgham Cottage Next To The River,10,782,Entire Cottage,
+"North Goa, Goa, India",North Goa," Goa, India",0,15.56,73.79,Crystal Village 10 Bedroom Pvt Pool Villa Nagoa,16,854,Entire Home,
+"Mararikulam, Kerala, India",Mararikulam," Kerala, India",0,9.58,76.31,Flamingo Lovely Boutique Villa 11 Bed Luxury Space,16,1443,Entire Home,
+"Awas, Maharashtra, India",Awas," Maharashtra, India",1,18.76,72.89,10 Bhk Luxury Villa W Pool - Modern Cottage Style,16,1325,Entire Villa,4.89
+"Canacona, Goa, India",Canacona," Goa, India",1,14.99,74.06,"6 Bhk Villa W/Pool,Wifi- Luacheia,Canacona , Goa",13,1220,Entire Villa,
+"Nainital, Uttarakhand, India",Nainital," Uttarakhand, India",0,29.39,79.46,"Luxury Entire Heritage Villa, Wifi",16,842,Entire Villa,
+"Pathau, Uttarakhand, India",Pathau," Uttarakhand, India",0,30.14,78.31,A Majestic Luxurious Villa Overlooking The Ganges,8,913,Entire Villa,
+"Anjuna, Goa, India",Anjuna," Goa, India",0,15.59,73.76,Azara Serenidad 5bhk Private Pool Villa In Anjuna,10,1185,Entire Villa,
+"Nathuwakhan, Uttarakhand, India",Nathuwakhan," Uttarakhand, India",1,29.47,79.59,Homfortable Loshgyani Estate-Rustic Forest Retreat,12,1118,Farm Stay,
+"Manali, Himachal Pradesh, India",Manali," Himachal Pradesh, India",1,32.30,77.18,Entire Boutique Stay With 8 Rooms Khvaab Manali,16,962,Room In Boutique Hotel,
+"Loutolim, Goa, India",Loutolim," Goa, India",0,15.33,73.98,Casa Susegad - Restored Indo-Portuguese Mansion,14,902,Entire Villa,
+"Candolim, Goa, India",Candolim," Goa, India",0,15.52,73.76,8bhk(2x4) Super Luxurious @Candolim,16,782,Entire Serviced Apartment,
+"Karjat, Maharashtra, India",Karjat," Maharashtra, India",0,18.92,73.33,Private Pool Villa With Meals For 10+ Guests.,16,962,Entire Villa,
+"Assagao, Goa, India",Assagao," Goa, India",0,15.60,73.77,Assagao Bay: Luxury Villa By The Rose Nomad,8,842,Entire Villa,
+"Panna, Madhya Pradesh, India",Panna," Madhya Pradesh, India",0,24.71,80.17,"Mohan Niwas Palace, A Heritage Homestay In Panna.",8,1443,Entire Villa,
+"Nashik, Maharashtra, India",Nashik," Maharashtra, India",0,20.07,73.64,Welcome To 16 Bedroom Gem Hidden In Nature!,16,1082,Farm Stay,
+"Mumbai, Maharashtra, India",Mumbai," Maharashtra, India",0,18.92,72.83,45 Foot 3br Yacht At Mumbai Harbour,8,1503,Boat,
+"Kullu, Himachal Pradesh, India",Kullu," Himachal Pradesh, India",0,32.04,77.14,"Himalayan Kothi, Kais",2,1203,Room In Boutique Hotel,
+"Lonavla, Maharashtra, India",Lonavla," Maharashtra, India",0,18.70,73.45,Stayvista At 5 Rooms @ Vyoman,10,1004,Private Room In Villa,
+"Lonavla, Maharashtra, India",Lonavla," Maharashtra, India",0,18.77,73.38,Palacio Lonavala,12,902,Entire Villa,
+"Nerul, Goa, India",Nerul," Goa, India",0,15.51,73.80,22bhk(5+5+6+6) Private Pool Villa Near Candolim,16,1203,Entire Villa,
+"Saligao, Goa, India",Saligao," Goa, India",0,15.56,73.78,Woods Goa Bunglow,16,782,Entire Bungalow,
+"Ribandar, Goa, India",Ribandar," Goa, India",0,15.50,73.87,Room At Ribandar Hill ..Value For Money 01,2,1203,Shared Room In Guest Suite,4.20
+"Arpora, Goa, India",Arpora," Goa, India",0,15.55,73.76,"Paloma, Baale Resort Goa, Luxury 3 Bedroom Villa",8,1385,Private Room In Resort,
+"Arpora, Goa, India",Arpora," Goa, India",0,15.55,73.76,"Koi, Baale Resort Goa, Luxury 4 Bedroom Villa",10,1529,Private Room In Resort,
+"Guirim, Goa, India",Guirim," Goa, India",0,15.57,73.81,Super Luxury 4bhk Villa With Excellent Service,12,902,Entire Villa,
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.44,77.17,Farmhouse Gardens & Swimming Pool For Film Shoots,6,1503,Farm Stay,
+"Udaipur, Rajasthan, India",Udaipur," Rajasthan, India",0,24.49,73.58,Beautiful Cottage In The Village Of Bujera Udaipur,7,1263,Entire Villa,
+"Panaji, Goa, India",Panaji," Goa, India",0,15.50,73.87,Bnb With Antique Furniture In River View Place 02,2,1097,Private Room In Villa,4.83
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.50,77.14,Brookwood Gardens Wedding Venue,16,1203,Farm Stay,
+"Arpora, Goa, India",Arpora," Goa, India",1,15.54,73.77,Stunning Luxury 16 Bedroom Villa + Private Pool,16,1172,Entire Villa,
+"Kumarakom, Kerala, India",Kumarakom," Kerala, India",0,9.59,76.42,"Lakeside 20 Ac Rooms In Kumarakom, Kerala, India",16,788,Farm Stay,
+"Anjuna, Goa, India",Anjuna," Goa, India",0,15.57,73.74,Private Beach Touch Villa,4,902,Entire Villa,
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.49,77.14,Brookwood Gardens Glasshouse Party Venue,16,962,Farm Stay,
+"Panaji, Goa, India",Panaji," Goa, India",0,15.50,73.82,A Luxury Heritage Goan Boutique Villa In Panjim,15,1168,Private Room In Villa,
+"Calangute, Goa, India",Calangute," Goa, India",0,15.55,73.77,6bhk Celebrity Ultra Luxury Villa At Baga,14,842,Entire Villa,
+"Assonora, Goa, India",Assonora," Goa, India",0,15.62,73.90,Valley Meadows Farm,16,1022,Room In Boutique Hotel,
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.44,77.19,Farmhouse For Wedding And Pre-Wedding Function !!!,16,1203,Farm Stay,
+"Gauravaddo, Calangute, Goa, India",Gauravaddo," Calangute, Goa, India",1,15.54,73.77,Unique Breathtaking Luxury Villa With Party Room,10,888,Entire Home,4.33
+"Gurugram, Haryana, India",Gurugram," Haryana, India",1,28.37,77.01,Farm Resort (Ac Halls Avb./16 Rooms/40 Ppl Stay),16,1311,Farm Stay,
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.45,77.18,Pre-Wedding @ Exquisite Private Farm,16,1203,Farm Stay,
+"North Goa, Goa, India",North Goa," Goa, India",0,15.56,73.78,8 Bedroom Luxury Private Pool Villa ! Breakfast,16,842,Entire Villa,
+"Goa, India",Goa, India,1,15.54,73.77,"Escape To Paradise, Your Group Getaway 12-36 Pax",16,978,Entire Villa,5.00
+"Abu Road, Rajasthan, India",Abu Road," Rajasthan, India",0,24.53,72.79,Chacha Villa,12,1082,Entire Bungalow,
+"Panjim, Goa, India",Panjim," Goa, India",0,15.50,73.83,9 Luxury Heritage Boutique Stay In Fontainhas Goa,16,842,Room In Heritage Hotel,
+"Colovale, Goa, India",Colovale," Goa, India",0,15.65,73.82,7 Bedroom Villa On The Chapora River In Colvale,10,962,Entire Villa,4.60
+"Kukas, Rajasthan, India",Kukas," Rajasthan, India",0,27.09,75.89,Natural Pearl Farms,8,842,Farm Stay,
+"Nandgaon, Maharashtra, India",Nandgaon," Maharashtra, India",0,18.78,73.41,Ultra Luxurious Mansion With Private Discotheque,16,902,Entire Villa,
+"Candolim, Goa, India",Candolim," Goa, India",0,15.52,73.76,Ultimate 9 Bhk Beach Villa On Candolim Beach,16,1153,Entire Villa,
+"Barashiv, Maharashtra, India",Barashiv," Maharashtra, India",0,18.48,72.90,6bhk Private Villa With Infinity Pool And Sea View,16,1203,Entire Villa,
+"Candolim, Goa, India",Candolim," Goa, India",0,15.52,73.76,"Hamsa Villas, Candolim Beach, Goa (Casa Sea Vista)",12,1143,Entire Villa,5.00
+"Candolim, Goa, India",Candolim," Goa, India",0,15.52,73.77,Luxurious Serviced 6bhk Villa On Candolim Beach,12,798,Entire Home,4.80
+"Mahabaleshwar, Maharashtra, India",Mahabaleshwar," Maharashtra, India",0,17.92,73.74,Stayvista At Cowboy Castle -7br W/ Panoramic View,16,784,Entire Villa,
+"Ambelim, Goa, India",Ambelim," Goa, India",0,15.17,73.97,Heritage-Portuguese Luxurious Villa In South Goa,16,902,Entire Villa,
+"Rishikesh, Uttarakhand, India",Rishikesh," Uttarakhand, India",0,30.13,78.33,Shambhala By The Ganges,12,1503,Entire Villa,
+"Delhi, India",Delhi, India,0,28.67,77.20,"Private Room For Long Stay With Attached Bath,",2,1924,Private Room In Bed And Breakfast,
+"Amritsar Cantt., Punjab, India",Amritsar Cantt.," Punjab, India",0,31.63,74.88,Walking Distance To Golden Temple,2,36079,Room In Hotel,3.75
+"Lonavla, Maharashtra, India",Lonavla," Maharashtra, India",0,18.70,73.45,Stayvista At Vyoman,16,1481,Entire Villa,
+"Calangute, Goa, India",Calangute," Goa, India",0,15.54,73.76,Beachfront 6+1bdr Luxury Villa With Private Pool.,12,897,Entire Home,4.78
+"Vijayawada, Andhra Pradesh, India",Vijayawada," Andhra Pradesh, India",0,16.48,80.71,Dwaraka Residency Quad Occupancy Room,4,3041,Room In Hotel,
+"Moira, Goa, India",Moira," Goa, India",0,15.60,73.84,Birdsong Moira | A Unique Homestay Experience,15,962,Entire Villa,
+"Calangute Beach, Goa, India",Calangute Beach," Goa, India",1,15.55,73.75,"Art -Inspired , Designer Calangute Beach Villa",16,782,Entire Villa,
+"Vijayawada, Andhra Pradesh, India",Vijayawada," Andhra Pradesh, India",0,16.48,80.71,Dwaraka Residency Double Room Near Anjaneya Swamy Poranki Vijayawada,2,3033,Room In Hotel,
+"Goa, India",Goa, India,1,15.32,73.91,Luxury Boutique Hotel.,16,880,Room In Boutique Hotel,4.94
+"Chennai, Tamil Nadu, India",Chennai," Tamil Nadu, India",0,12.95,80.26,Vedantha@33-Beach Front Pool Villa.Ecr 9884458888,16,893,Entire Home,5.00
+"Sangolda, Goa, India",Sangolda," Goa, India",0,15.54,73.80,12 Bedroom Luxurious Heritage Villa With Pool.,16,1563,Entire Bungalow,
+"Lonavala, Maharashtra, India",Lonavala," Maharashtra, India",0,18.77,73.41,Aashiyaana Villa Heritage Luxury Villa With Pool,15,1203,Entire Villa,
+"Calangute, Goa, India",Calangute," Goa, India",0,15.54,73.77,Calangute 2bhk No:8,8,3007,Entire Rental Unit,4.25
+"Dehradun, Uttarakhand, India",Dehradun," Uttarakhand, India",0,30.32,78.03,"Hotel Doon'S Pride, Dehradun-Superior Room",3,1581,Room In Hotel,
+"Dehradun, Uttarakhand, India",Dehradun," Uttarakhand, India",0,30.32,78.03,"Hotel Doon'S Pride, Dehradun-Deluxe Room",3,1756,Room In Hotel,
+"Vijayawada, Andhra Pradesh, India",Vijayawada," Andhra Pradesh, India",0,16.48,80.71,Dwaraka Residency Triple Room Near Anjaneya Swamy Poranki Vijayawada,3,3041,Room In Hotel,
+"Vagator, Goa, India",Vagator," Goa, India",0,15.60,73.78,Serene Voyage 5 Bhk In Assagao,14,998,Entire Home,4.64
+"Nilgiris, Tamil Nadu, India",Nilgiris," Tamil Nadu, India",0,11.33,76.80,A Glamorous 4 B/R Villa With Gorgeous Views+Bbq,10,993,Entire Villa,
+"Vagator, Goa, India",Vagator," Goa, India",0,15.60,73.76,Villa Azul By Lohono Stays,10,940,Entire Villa,
+"Mandrem, North Goa, Goa, India",Mandrem," North Goa, Goa, India",0,15.66,73.71,Private Villa With Pool By The Beach,16,902,Entire Villa,3.83
+"Mumbai, Maharashtra, India",Mumbai," Maharashtra, India",0,18.92,72.84,54 Foot 3br Luxury Yacht Mumbai Harbour,10,1924,Boat,
+"Alibag, Maharashtra, India",Alibag," Maharashtra, India",0,18.65,72.89,Coconut Villa 3 Bhk,12,1804,Entire Villa,
+"Manali, Himachal Pradesh, India",Manali," Himachal Pradesh, India",0,32.24,77.19,"Hamsa Villas, Manali",12,1744,Entire Home,4.83
+"Calangute, Goa, India",Calangute," Goa, India",0,15.53,73.76,"Hamsa Villas, Candolim Beach, Goa (Casa Sea Esta)",12,1082,Entire Villa,
+"Ashapura, Nasirabad , India",Ashapura," Nasirabad , India",0,26.30,74.74,Peeli Kothi Is Ideal 4 Shooting With Heritagelook,2,2405,Farm Stay,
+"Mahagaon, India",Mahagaon, India,0,18.70,73.51,Cherry Flower.,16,1546,Entire Bungalow,4.53
+"Kihim, Maharashtra, India",Kihim," Maharashtra, India",1,18.73,72.87,14 Room Luxury Beach Villa With Two Large Pools,16,1674,Entire Villa,
+"Kalwar, Rajasthan, India",Kalwar," Rajasthan, India",0,26.99,75.58,"Bara Bungalow Kalwar, Jaipur (Entire Bungalow)",16,1082,Entire Bungalow,
+India,India,,0,15.50,73.81,Eternia Villa | Exclusive Pool | Modernised | 7bhk,14,3007,Entire Villa,
+"Alibaug, Maharashtra, India",Alibaug," Maharashtra, India",0,18.66,72.88,Stayvista At Casa Bella- Luxury Villa W/Sea View,16,842,Entire Villa,4.00
+"Ramgarh, Uttarakhand, India",Ramgarh," Uttarakhand, India",0,29.42,79.55,Suite 2 (The Himalayan Living Whispering Oaks),3,4381,Room In Hotel,
+"Janedghat, Himachal Pradesh, India",Janedghat," Himachal Pradesh, India",0,30.99,77.21,Premium Deluxe Room,3,4351,Room In Hotel,
+"Bujra, Rajasthan, India",Bujra," Rajasthan, India",0,24.56,73.64,8 Rooms @Castle Oodeypore,16,962,Private Room In Castle,
+"Ramgarh, Uttarakhand, India",Ramgarh," Uttarakhand, India",0,29.42,79.55,Entire Suite Villa (The Himalayan Living Whispering Oaks),6,4381,Room In Hotel,
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.50,77.14,Destination Wedding Venue,16,4209,Farm Stay,
+"Kolkata, West Bengal, India",Kolkata," West Bengal, India",0,22.52,88.35,The Best Place To Stay In South Kolkata,4,6013,Entire Condo,4.27
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.58,77.23,Defence Colony A Block Apartment With Elevator.,6,4209,Entire Rental Unit,4.91
+"Pune, Maharashtra, India",Pune," Maharashtra, India",0,18.52,73.88,"A Cozy, Centrally Located Bed And Breakfast",2,4269,Private Room In Condo,4.80
+"Kasol, Himachal Pradesh, India",Kasol," Himachal Pradesh, India",0,32.01,77.31,Balcony With Mountain View Westros Kasol,3,4470,Room In Hotel,
+"Patna, Bihar, India",Patna," Bihar, India",0,25.60,85.18,Homestel Non Ac Room,3,4418,Room In Hotel,
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.50,77.15,Olive Glasshouse ~ Private Party Venue,16,4209,Entire Place,
+"Khoohdi, Rajasthan, India",Khoohdi," Rajasthan, India",0,26.62,70.71,Swiss Luxury Tent,4,4444,Room In Hotel,
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.50,77.15,Olive 8 Glasshouse,16,3608,Farm Stay,
+"Bengaluru, Karnataka, India",Bengaluru," Karnataka, India",0,13.07,77.47,Aalaya By Happy Retreats - Weddings-Family Getaway,15,4209,Farm Stay,
+"Govind Nagar, Andaman And Nicobar Islands, India",Govind Nagar," Andaman And Nicobar Islands, India",0,12.04,92.99,Gypsy Divers Dive Resort-Standard Room,3,5274,Room In Hotel,
+"Assagao, Goa, India",Assagao," Goa, India",0,15.60,73.78,8 To 14 Br | Luxury | Single Key | Top Location,16,4209,Entire Villa,
+"Alappuzha, Kerala, India",Alappuzha," Kerala, India",0,9.47,76.39,Spice Routes Houseboats - Cinnamon,6,698,Houseboat,
+"Mumbai, Maharashtra, India",Mumbai," Maharashtra, India",1,19.16,72.78,Bougainvilla.. The Perfect Getaway In Paradise,8,601,Entire Villa,4.96
+"Baga, Goa, India",Baga," Goa, India",0,15.57,73.76,Celebration: 6bhk Luxury Villa - Pool/Jaccuzi/Bar,14,661,Entire Villa,5.00
+"Dona Paula, Goa, India",Dona Paula," Goa, India",0,15.45,73.80,Tropical Vibes 5bhk Luxury Beach House,14,660,Entire Villa,4.62
+"Marna, Goa, India",Marna," Goa, India",0,15.62,73.78,Private Luxury 7bhk Villa With Swimming Pool,16,598,Entire Villa,4.80
+"Assagao, Goa, India",Assagao," Goa, India",0,15.59,73.78,Luxurious 5bhk Villa With A Caretaker In Assagao,15,623,Entire Villa,4.33
+"Anjuna, Goa, India",Anjuna," Goa, India",0,15.58,73.76,Pura Vida I By Hireavilla-5br W Pvt Pool In Anjuna,15,771,Entire Villa,4.88
+"Jaipur, Rajasthan, India",Jaipur," Rajasthan, India",0,26.93,75.80,"Pool Party, Function & Events @ Heritage Bungalow",16,567,Entire Bungalow,
+"Lonavala, Maharashtra, India",Lonavala," Maharashtra, India",0,18.67,73.39,Falcon Hill -Infinity Pool Views Near Lion'S Point,15,624,Entire Villa,5.00
+"Alibag, Maharashtra, India",Alibag," Maharashtra, India",1,18.66,72.88,Frangipani By Hireavilla-5br Lux Estate In Alibaug,15,701,Entire Home,4.47
+"Manali, Himachal Pradesh, India",Manali," Himachal Pradesh, India",0,32.28,77.17,Chaletshanagmanali- 4 Br Chalet,8,505,Entire Chalet,4.50
+"Candolim, Goa, India",Candolim," Goa, India",1,15.53,73.79,Cliffhouse By Hireavilla -5br W Pvt Pool In Saipem,15,546,Entire Villa,4.89
+"Brittona, Goa, India",Brittona," Goa, India",1,15.53,73.85,"Lux 2 Villa'S With 2 Cooks, Private Pool & Car",16,754,Entire Villa,4.67
+"Zirad, Maharashtra, India",Zirad," Maharashtra, India",0,18.76,72.89,Bougainvillea: Beautiful 6bhk Villa By Limestays,16,773,Entire Villa,
+"Kune N.M., Maharashtra, India",Kune N.M.," Maharashtra, India",0,18.76,73.39,Stayvista La Palm 8br W/Pool/Steam & Sauna Room,16,579,Entire Villa,
+"Jaipur, Rajasthan, India",Jaipur," Rajasthan, India",0,26.93,75.80,Stayvista At Krishnalaya Mansion Jaipur City Home!,16,524,Entire Villa,4.64
+"Baga, Goa, India",Baga," Goa, India",0,15.57,73.76,Serenity: 6bhk Luxury Villa Pool/Parking (Baga),14,601,Entire Villa,4.78
+"Parra, Goa, India",Parra," Goa, India",0,15.57,73.78,"Deck-4 Bed-Infinity Private Pool,Arpora @North Goa",10,545,Entire Villa,4.57
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.44,77.21,Iraluxe,4,541,Farm Stay,
+"Arambol, Goa, India",Arambol," Goa, India",1,15.64,73.72,Exotic Beachfront 6br Private Pool Ashvem,16,518,Entire Bungalow,
+"Lonavla, Maharashtra, India",Lonavla," Maharashtra, India",1,18.77,73.41,Luxury 6bhk Crescent Private Pool Villa Lonavala,15,523,Entire Home,4.56
+"Bhandar Gaon, Uttarakhand, India",Bhandar Gaon," Uttarakhand, India",0,30.41,78.08,Luxury Garden Villa Dehradun,11,527,Entire Villa,4.70
+"Gurugram, Haryana, India",Gurugram," Haryana, India",0,28.29,76.93,Stayvista At The Banyan Abode W/ Pool Table & Tt,16,574,Entire Villa,4.57
+"Anjuna, Goa, India",Anjuna," Goa, India",1,15.59,73.77,Rah - 5 Bhk Luxury Villa By Vio Stays In Assagao,13,600,Entire Home,
+"Candolim, Goa, India",Candolim," Goa, India",0,15.52,73.77,"Beutiful Appartment Near Candolim Beach, Calangute",4,601,Entire Rental Unit,4.54
+"Lonavla, Maharashtra, India",Lonavla," Maharashtra, India",0,18.74,73.44,8bhk 60 Ml Chalet (Can Accommodate 40 Paxs*),16,519,Entire Bungalow,5.00
+"Puducherry, India",Puducherry, India,1,11.93,79.83,Villa Helena Heritage Guest House - Full Villa,16,589,Private Room In Bed And Breakfast,
+"Arpora, Goa, India",Arpora," Goa, India",0,15.57,73.76,"Villa Arcadia 6bhk : Jacuzzi, Pool, Garden",14,644,Entire Villa,
+"Candolim , Ga, India",Candolim ," Ga, India",0,15.50,73.77,"Casa Pelo Mar, Goa",15,704,Entire Villa,5.00
+"Alibag, Maharashtra, India",Alibag," Maharashtra, India",0,18.74,72.88,"The Goan Pool Villa, Amidst Mother Nature, Alibag",12,498,Farm Stay,4.13
+"Anjuna, Goa, India",Anjuna," Goa, India",0,15.59,73.77,Serene Flores French Style Boutique Villa,12,553,Entire Villa,
+"Saligao, Goa, India",Saligao," Goa, India",0,15.56,73.78,Blu Grass 7 Bedroom Holiday Villa Near Calangute,14,687,Entire Villa,
+"Calangute, Goa, India",Calangute," Goa, India",0,15.55,73.76,6bhk Private Pool Beach Villa @ Baga,14,661,Entire Villa,
+"Calangute, Goa, India",Calangute," Goa, India",1,15.54,73.77,Exquisite 9 Bedroom Family Style Mansion With Pool,16,531,Entire Home,5.00
+"Alappuzha, Kerala, India",Alappuzha," Kerala, India",0,9.54,76.35,The Rain- 3br Luxiries W/Breakfast And Kayaking,9,515,Private Room In Villa,
+"Achrol, Rajasthan, India",Achrol," Rajasthan, India",0,27.14,75.96,The Foothills Villas - A Nature'S Home In Aravali,16,722,Farm Stay,
+"Jaipur, Rajasthan, India",Jaipur," Rajasthan, India",0,27.05,75.75,Wood Heaven Farms,16,601,Farm Stay,
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.44,77.19,Farmhouse With Pool For #Photo Shoot !!!,16,601,Farm Stay,
+"Panchgani, Maharashtra, India",Panchgani," Maharashtra, India",0,17.93,73.80,Estella By Vista Grande,16,595,Entire Villa,
+"Udaipur, Rajasthan, India",Udaipur," Rajasthan, India",0,24.60,73.76,10-12 Person | Pool Villa | Bfast & Dinner | Bbq,11,495,Farm Stay,
+"Kochi, Kerala, India",Kochi," Kerala, India",0,9.96,76.24,"Beachgate Bungalows By Cgh Earth, Fort Kochi Beach",6,541,Entire Home,5.00
+"Calangute, Goa, India",Calangute," Goa, India",1,15.54,73.77,Elevate Your Next Adventure At Villa Calangute Goa,16,502,Entire Home,
+"Pawas, Maharashtra, India",Pawas," Maharashtra, India",0,16.87,73.31,O'Pearl 9bhk Beach Touch Private Villa With Pool,16,601,Entire Villa,
+"Panchgani, Maharashtra, India",Panchgani," Maharashtra, India",0,17.92,73.81,Dazzling Hills-Pure Veg Villa By 29bungalow,15,550,Entire Villa,
+"Baga, Goa, India",Baga," Goa, India",0,15.57,73.75,5bhk Private Pool La Baga Villa At Baga,12,601,Entire Villa,
+"Mahabaleshwar, Maharashtra, India",Mahabaleshwar," Maharashtra, India",0,17.92,73.67,Private 10 Room Farmhouse - Rare Find Mahablshwar,16,533,Entire Villa,
+"Jaipur, Rajasthan, India",Jaipur," Rajasthan, India",1,26.93,75.72,"Executive 4 Rooms, Bath, Cook, Parking,",12,553,Entire Villa,
+"Bijainagar, Rajasthan, India",Bijainagar," Rajasthan, India",0,25.91,74.59,Bijay Niwas Palace - A Heritage Hotel,15,722,Room In Heritage Hotel,
+"Aamwala, Uttarakhand, India",Aamwala," Uttarakhand, India",1,30.37,77.99,"Div Estate: Wedding Venue (Aamwala, Dehradun)",10,601,Farm Stay,
+"Nerul, Goa, India",Nerul," Goa, India",0,15.51,73.80,11bhk (5+6)Luxury Private Pool Villa Near Candolim,16,601,Entire Villa,
+"Gurugram, Haryana, India",Gurugram," Haryana, India",0,28.36,77.00,Video Shoot Package,16,601,Farm Stay,
+"Mararikulam, Kerala, India",Mararikulam," Kerala, India",0,9.60,76.30,Ninteen People Accomodation At Mararikulam Beach,16,541,Private Room In Bed And Breakfast,
+"Alappuzha, Kerala, India",Alappuzha," Kerala, India",0,9.48,76.39,Spice Routes Houseboats - Pepper,4,534,Houseboat,
+"Alappuzha, India",Alappuzha, India,0,9.46,76.39,Spice Routes Houseboat- Saffron,2,541,Houseboat,
+"Calangute, Goa, India",Calangute," Goa, India",0,15.57,73.76,9 Bedroom Villa With Swimming Pool @ Baga River,16,490,Entire Villa,
+"Chuchot Yakma, India",Chuchot Yakma, India,0,34.09,77.58,Chomal Huts,10,541,Private Room In Resort,
+"Nashik, Maharashtra, India",Nashik," Maharashtra, India",0,20.07,73.64,Gp Farm 8bh Villa,16,505,Private Room In Resort,
+"Sangolda, Goa, India",Sangolda," Goa, India",0,15.54,73.81,Monforte Villa I By Lohono Stays,8,655,Entire Home,
+"Penha De França, Goa, India",Penha De França," Goa, India",0,15.54,73.82,Boohemiaa Greek Villa (With Private Pool),6,593,Entire Villa,
+"Kashid, Maharashtra, India",Kashid," Maharashtra, India",0,18.44,72.91,Beacho 8bhk By Unexplora,14,541,Entire Bungalow,
+"Gadherni, Himachal Pradesh, India",Gadherni," Himachal Pradesh, India",0,32.21,77.18,Princess Villa Manali,16,601,Room In Boutique Hotel,
+"Lonavla, Maharashtra, India",Lonavla," Maharashtra, India",0,18.78,73.39,Mountain-View - 3br W/Swimming Pool @Geometrica,9,500,Entire Villa,
+"Udaipur, Rajasthan, India",Udaipur," Rajasthan, India",0,24.63,73.63,The Rustic Pines,16,577,Entire Chalet,
+"Kumdal, Maharashtra, India",Kumdal," Maharashtra, India",0,19.71,73.01,Pasiiflora (Wada),16,533,Farm Stay,
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.64,77.17,Stay In Heritage House In The Heart Of City,15,601,Entire Home,
+"Candolim, Goa, India",Candolim," Goa, India",0,15.53,73.80,Perfect Getaway - Lux 6br+Pool,16,678,Entire Home,
+"Varanasi, Uttar Pradesh, India",Varanasi," Uttar Pradesh, India",0,25.31,82.97,Luxurious Penthouse - 11th Floor -Pickup On Demand,6,601,Entire Condo,
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.49,77.21,★ Farmhouse For Your Socially-Distanced Parties ★,10,613,Private Room In Farm Stay,
+"Kerala, India",Kerala, India,0,11.53,76.15,Family Superior Cottage - Morning Glory,4,722,Private Room In Bed And Breakfast,
+"Dona Paula, Goa, India",Dona Paula," Goa, India",0,15.46,73.80,Villa Serene - Private Pool Villa,10,601,Entire Villa,
+"Zirad, Maharashtra, India",Zirad," Maharashtra, India",0,18.75,72.91,Stayvista At Amarillo Villa- Rustic 4br W/Pool,11,528,Entire Villa,4.67
+"Almora, Uttarakhand, India",Almora," Uttarakhand, India",0,29.71,79.75,Nine Furlongs - Kakarkot - The Forest Bungalow,4,532,Private Room In Nature Lodge,
+"North Goa, Goa, India",North Goa," Goa, India",1,15.56,73.78,9bhk Villa For Big Groups Nr Baga & Calangute,16,549,Entire Home,
+"Waghodia, Gujarat, India",Waghodia," Gujarat, India",0,22.33,73.53,The Wilderness Homestay And Farm,12,533,Farm Stay,
+"Ahmedabad, Gujarat, India",Ahmedabad," Gujarat, India",0,23.02,72.37,Kalhaar Blues&Greens Luxurious Golf Villa(Entire),6,541,Entire Bungalow,
+"Udaipur, Rajasthan, India",Udaipur," Rajasthan, India",0,24.57,73.65,Farm Villa @ Devra Udaipur- 8 Rooms N Pool,16,577,Entire Villa,
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.44,77.19,Farmhouse For Corporate Events And Pool Party !!!,16,722,Farm Stay,
+"Coimbatore, Tamil Nadu, India",Coimbatore," Tamil Nadu, India",0,11.03,76.94,Dwaraka Inn -6br With Luxurious Pool And Garden,16,503,Entire Villa,
+"Raiseena, Haryana, India",Raiseena," Haryana, India",0,28.32,77.02,12 B.Room Boutique Resort With Pool In Gurgaon.,16,541,Private Room In Resort,
+"Kamshet, Maharashtra, India",Kamshet," Maharashtra, India",0,18.75,73.54,"Foresta By The Lake, Pool, Turf, Game Room &Gazebo",16,565,Entire Villa,
+"Baga, Goa, India",Baga," Goa, India",0,15.56,73.76,Luxurious 5bhk Private Pool Beach Villa @ Baga,15,490,Entire Villa,3.33
+"Raigad, Maharashtra, India",Raigad," Maharashtra, India",0,18.49,72.90,By The Sea Villa.... Sea View Rooms With A Pool..,16,661,Entire Villa,
+"Jaipur, Rajasthan, India",Jaipur," Rajasthan, India",1,26.91,75.78,Newly Constructed Luxury Home: 8 Rooms: Bonfire,16,698,Entire Bungalow,
+"Mussoorie, Uttarakhand, India",Mussoorie," Uttarakhand, India",0,30.44,78.21,A Luxurious Mountain Bungalow With Stunning Views,8,499,Entire Villa,
+"Chouk, Mh, India",Chouk," Mh, India",0,18.92,73.28,Triangle,10,558,Entire Villa,
+"Shahpur, Maharashtra, India",Shahpur," Maharashtra, India",0,19.46,73.38,"7br Goil Farms -Shahpur, 1.5hrs Drive From Mumbai.",16,707,Entire Villa,
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.59,77.25,Colonial Bungalow In A Serene Locality In Delhi,15,661,Entire Bungalow,
+"Mahabaleshwar, Maharashtra, India",Mahabaleshwar," Maharashtra, India",0,17.93,73.67,Horizon 360 - Pet Friendly Villa For Family,15,548,Entire Villa,
+"Reis Magos, Goa, India",Reis Magos," Goa, India",0,15.51,73.81,Luxurious 5+1 Bhk Villa With Pool On River Bank.,12,541,Entire Villa,
+"Kumarakom, Kerala, India",Kumarakom," Kerala, India",0,9.59,76.42,5 Lakeside Villas For Up To 27 Person In Kumarakom,16,601,Entire Villa,
+"Aundholi, Maharashtra, India",Aundholi," Maharashtra, India",0,18.71,73.46,9bhk Vibhati Resort For Large Group And Events.,16,567,Private Room In Resort,
+"Calangute, Goa, India",Calangute," Goa, India",0,15.54,73.77,The Baga Beach Villa 5bhk With Private Pool,15,601,Entire Villa,
+"Calangute, Goa, India",Calangute," Goa, India",1,15.53,73.76,7bhk Beach Villa With Private Pool,16,545,Entire Villa,4.93
+"Bagru, Rajasthan, India",Bagru," Rajasthan, India",0,26.78,75.53,Haveli Anirudh 7 Br With Pool Near Jaipur,16,524,Farm Stay,
+"Narendra Nagar, Uttarakhand, India",Narendra Nagar," Uttarakhand, India",0,30.14,78.31,Pushp Villa At Amayaah Resorts,6,706,Private Room In Resort,
+"Candolim, Goa, India",Candolim," Goa, India",1,15.52,73.77,2 Private Pool Villa'S In Candolim - Pvt Cook,16,561,Entire Home,4.33
+"Assagaon, Goa, India",Assagaon," Goa, India",0,15.60,-73.75,Villa Evora By Lohono Stays,10,640,Entire Villa,
+"Assagao, Goa, India",Assagao," Goa, India",0,15.60,73.78,The Project Cafe - Portuguese Villa,13,541,Entire Villa,
+"Kune N.M., Maharashtra, India",Kune N.M.," Maharashtra, India",0,18.77,73.38,Palacio - 6bhk Mansion,16,598,Entire Villa,
+"Vagator, Goa, India",Vagator," Goa, India",1,15.59,73.75,12 Bedroom Heritage+ Boutique Stay+ Vagator,16,661,Entire Villa,
+"Dabolim, Goa, India",Dabolim," Goa, India",0,15.37,73.89,"""Splendid 3 Bhk Apartments With Pool & Seaview!""",7,601,Entire Condo,2.33
+"Kasauli, Himachal Pradesh, India",Kasauli," Himachal Pradesh, India",0,30.90,76.96,Exotic Farm House |6 Acre | Orchards | Ac |Solan,16,601,Farm Stay,
+"Tangmarg, Jammu And Kashmir, India",Tangmarg," Jammu And Kashmir, India",0,34.04,74.41,Stayvista At Frosty @ Frozen Fall - Drung,10,716,Private Room In Villa,
+"Tilase, Maharashtra, India",Tilase," Maharashtra, India",0,19.65,73.21,The Purple Lotus,16,661,Farm Stay,
+"Colovale, Goa, India",Colovale," Goa, India",0,15.65,73.82,5 Bedroom Villa On The Chapora River In Colvale,8,722,Entire Villa,4.73
+"Candolim, Goa, India",Candolim," Goa, India",0,15.52,73.79,Chikoo Sky New 5bhk Villa Private Pool Candolim,14,550,Entire Villa,4.70
+"Udaipur, Rajasthan, India",Udaipur," Rajasthan, India",1,24.55,73.68,Anagha Homestay,16,490,Entire Bungalow,4.91
+"Virajpet, Kodagu, Ka, India",Virajpet," Kodagu, Ka, India",0,12.20,75.80,Villa Magnolia - On A Coffee Plantation,8,601,Entire Bungalow,4.42
+"North Goa, Goa, India",North Goa," Goa, India",0,15.50,73.78,Ziva Villa With A Private Pool,16,541,Entire Home,4.57
+"Mahabaleshwar, Maharashtra, India",Mahabaleshwar," Maharashtra, India",0,17.97,73.66,Super Premium Bungalow With Pool | Mahabaleshwar,12,723,Entire Villa,
+"Nashik, Maharashtra, India",Nashik," Maharashtra, India",0,20.01,73.67,Stayvista At Villa Meer - 6br W/ Pool & Huge Lawn,16,505,Entire Villa,4.25
+"Lonavala, Maharashtra, India",Lonavala," Maharashtra, India",0,18.75,73.41,7br W/ Swimming Pool & Pool Table @ Mehta Mansion,16,530,Private Room In Villa,4.33
+"Khandala, Maharashtra, India",Khandala," Maharashtra, India",0,18.76,73.37,Belle Vue Cottage - Luxury Victorian Property,16,503,Entire Bungalow,4.85
+"Bengaluru, Karnataka, India",Bengaluru," Karnataka, India",0,12.79,77.66,White Escape Sky Villa Penthouse,15,577,Entire Rental Unit,4.67
+"Zirad, Maharashtra, India",Zirad," Maharashtra, India",0,18.75,72.89,Zen Villa: Luxury 5bhk Farmhouse By Limestays,16,558,Entire Villa,4.33
+"Chennai, Tn, India",Chennai," Tn, India",0,12.86,80.25,Regal Juhu Villa By The Beach Chennai.,10,722,Entire Home,
+"Ernakulam, Kerala, India",Ernakulam," Kerala, India",0,9.90,76.33,976 Panangad,8,661,Entire Villa,
+"Lonavala, Maharashtra, India",Lonavala," Maharashtra, India",0,18.77,73.39,Stayvista At Ayurkutir Villa - 9 Br,16,612,Entire Villa,
+"Gurugram, Haryana, India",Gurugram," Haryana, India",0,28.43,77.04,"Ultra Luxurious Penthouse ,5 Star Facilities",10,678,Entire Rental Unit,
+"Calangute, Goa, India",Calangute," Goa, India",0,15.54,73.77,Summertime - An Award Winning Luxury Villa In Goa,7,577,Entire Place,4.73
+"North Goa, Goa, India",North Goa," Goa, India",0,15.55,73.77,7 Bedroom Luxury Villa + Private Pool + Beach Near,16,549,Entire Villa,4.84
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.48,77.15,4bhk Luxury Farmvilla,8,679,Entire Villa,
+"Alappuzha, Kerala, India",Alappuzha," Kerala, India",0,9.54,76.36,"The Rain 4bhk W/Breakfast, Kayaking & Infinty Pool",12,548,Entire Villa,4.85
+"Bardez, Goa, India",Bardez," Goa, India",0,15.60,73.74,Boutique 6bhk Wit Privatepool-Partyarea In Vagator,16,605,Entire Villa,
+"Bardez, Goa, India",Bardez," Goa, India",0,15.52,73.85,6 Room Villa In Britona On The Mandovi River,10,722,Entire Villa,4.63
+"Sangolda, Goa, India",Sangolda," Goa, India",0,15.54,73.82,8 Rooms | 2 Villas | 1 Private Pool | Fab Views,16,722,Entire Villa,4.67
+"Lonavala, Maharashtra, India",Lonavala," Maharashtra, India",0,18.76,73.39,"Villa 41- 6br W/Pool, Poker Table & Lawn",16,619,Entire Villa,
+"Nerul, Goa, India",Nerul," Goa, India",1,15.51,73.79,7br Super Luxury Villa • 2 Private Pool • Candolim,16,731,Entire Villa,
+"Aldona, Goa, India",Aldona," Goa, India",1,15.60,73.87,4 Bhk Heritage Home With Big Pool-The Aldona House,10,722,Entire Home,4.90
+"Chennai, Tamil Nadu, India",Chennai," Tamil Nadu, India",1,12.75,80.24,Villa Waves - Bali Beach Villa On Ecr Near Kovalam,6,515,Entire Villa,4.94
+"Nerul, Goa, India",Nerul," Goa, India",0,15.50,73.80,4bhk Private Pool + Sea View + Caretaker -Candolim,12,495,Entire Villa,4.31
+"Garat Pur Bas, Haryana, India",Garat Pur Bas," Haryana, India",0,28.32,77.02,The Bistendu Resort - Private Boutique Resort 7bhk,16,490,Room In Boutique Hotel,4.75
+"Vadanemmeli, Tamil Nadu, India",Vadanemmeli," Tamil Nadu, India",1,12.75,80.24,Villa Aqua -Luxury Beach Villa On Ecr Near Kovalam,10,722,Entire Villa,4.83
+"Nerul , Goa, India",Nerul ," Goa, India",0,15.50,73.79,Sunscape - Sea View 3bhk Luxury Apartment,6,692,Entire Rental Unit,5.00
+"Nerul, Goa, India",Nerul," Goa, India",0,15.50,73.80,Sea View Villa With Infinity Pool,10,601,Entire Villa,5.00
+"Candolim, Goa, India",Candolim," Goa, India",0,15.51,73.77,"3bhk, Pvt Pool, Nr Beach Larisa Candolim Lux Villa",9,513,Entire Home,4.77
+"Dona Paula Beach, Goa, India",Dona Paula Beach," Goa, India",0,15.45,73.83,Luxe Private Pool Sea View Villa,12,512,Entire Villa,4.83
+"Mandrem, North Goa, Goa, India",Mandrem," North Goa, Goa, India",0,15.66,73.71,Private Villa With Living Room And Private Pool,15,711,Entire Villa,3.71
+"Reis Magos, Goa, India",Reis Magos," Goa, India",0,15.50,73.80,Dolphin Heights 5bhk Sea View Pool Villa Candolim,14,498,Entire Villa,4.73
+"Lonavla, Maharashtra, India",Lonavla," Maharashtra, India",0,18.76,73.38,Gardenview Aurus Grande - 5br W/Pool & Pool Table,15,636,Entire Villa,4.55
+"Assagao, Goa, India",Assagao," Goa, India",0,15.59,73.78,Luxurious 5bhk Villa With A Caretaker In Assagao,15,498,Entire Villa,4.88
+"North Goa, Goa, India",North Goa," Goa, India",1,15.54,73.77,Indulgent Elegant With Luxury Villa Private Pool,16,775,Entire Home,4.80
+"Alappuzha, Kerala, India",Alappuzha," Kerala, India",0,9.49,76.39,Spice Routes Houseboats - Clove,6,698,Houseboat,
+"Aryad South, Kerala, India",Aryad South," Kerala, India",1,9.52,76.36,9bedroom Premium Houseboat,16,728,Houseboat,
+"Candolim, Goa, India",Candolim," Goa, India",1,15.53,73.79,Villa No 6(Nearly A Acre Plot)With A Pool,13,722,Entire Villa,5.00
+"Gurgaon, Hr, India",Gurgaon," Hr, India",1,28.38,77.07,Chopra Farms Gurgaon-Private 5bhk Farm Villa,16,481,Farm Stay,4.86
+"Saligao, Goa, India",Saligao," Goa, India",0,15.55,73.79,7bhk Casa-De-Flora Villa With Large Private Pool,16,481,Entire Villa,
+"Gurgaon, Haryana, India",Gurgaon," Haryana, India",0,28.28,76.86,"Ivy Bridge- Luxurious, Green With Pool & Jacuzzi",14,447,Farm Stay,4.50
+"Barashiv, Maharashtra, India",Barashiv," Maharashtra, India",0,18.49,72.90,O'Nest By The Beach 8bhk Villa With Private Pool,16,481,Private Room In Resort,
+"Lonavla, Maharashtra, India",Lonavla," Maharashtra, India",0,18.78,73.39,5 Beds Luxury Private Pool Villa In Khandala,15,447,Entire Villa,4.25
+"Vagator, Goa, India",Vagator," Goa, India",1,15.60,73.75,Assagao Luxury Heritage Goan Villa With Pvt Pool,14,477,Entire Villa,4.88
+"Calangute, Bardez North Goa, India",Calangute," Bardez North Goa, India",1,15.54,73.77,6-10br Priv. Villa + Pool | B'Fast | Staff | Cook,16,680,Entire Villa,
+"Alibag, Maharashtra, India",Alibag," Maharashtra, India",0,18.79,72.88,"Arabella, 4br Luxury Pool Villa Near Mandwa Jetty",16,458,Entire Villa,
+"Bengaluru, Karnataka, India",Bengaluru," Karnataka, India",0,13.14,77.53,Mi Casa By Chazing Purple,10,481,Farm Stay,3.33
+"Panchgani, Maharashtra, India",Panchgani," Maharashtra, India",0,17.93,73.76,Tudor Rose - Swiss Chalet With Tudor Styled Facade,12,474,Entire Villa,4.75
+"Goa, India",Goa, India,0,15.50,73.80,4bhk Sea View Villa @Reismagos Candolim,12,457,Entire Home,
+"Candolim, Goa, India",Candolim," Goa, India",0,15.52,73.76,"Luxury Serviced Beach House On Candolim Beach, Goa",9,480,Entire Villa,4.36
+"Chennai, Tamil Nadu, India",Chennai," Tamil Nadu, India",0,12.88,80.25,Khushana Villa By Baywatchstayzz,8,442,Entire Villa,
+"Assagao, Goa, India",Assagao," Goa, India",1,15.60,73.78,Luxe 5 Br Heritage Pool Villa,10,457,Entire Villa,4.75
+"Haryana, India",Haryana, India,0,28.37,77.05,Jain Farms,16,447,Farm Stay,
+"Goa, India",Goa, India,0,15.54,73.81,4br Casa Do Amor Pvt Pool & Breakfast,11,480,Entire Villa,
+"Mirik, West Bengal, India",Mirik," West Bengal, India",1,26.88,88.18,"Birdsong Home, Entire Bungalow With Terrace, Deck",14,457,Entire Bungalow,4.60
+"Vagator, Goa, India",Vagator," Goa, India",0,15.59,73.75,Lamaroma | Luxurious Villa|Caretaker| Pvt Pool| Dg,7,477,Entire Home,
+"Udaipur, Rajasthan, India",Udaipur," Rajasthan, India",0,24.50,73.68,Beautiful Villa For A Luxurious Stay,9,421,Entire Villa,
+"North Goa, Goa, India",North Goa," Goa, India",0,15.56,73.78,4br Pvt Pool Villa With Chef - Wifi - North Goa,16,481,Entire Villa,
+"Anjuna, Goa, India",Anjuna," Goa, India",0,15.60,73.75,Lasierra | 3bhk | Cosy Pvt Pool Villa | Breakfast,7,468,Entire Home,4.88
+"Manali, Himachal Pradesh, India",Manali," Himachal Pradesh, India",0,32.25,77.17,Stayvista @The Lama House 6br W/Bonfire+Lawn+View,16,448,Entire Villa,
+"Hosur , Tamil Nadu, India",Hosur ," Tamil Nadu, India",0,12.80,77.83,"4 Luxurytents W/ Ac, Private Pool, Bbq",16,459,Tent,
+"Ashvem Beach, Goa, India",Ashvem Beach," Goa, India",1,15.64,73.72,Private Cottages - Beachfront Boutique Resort,14,463,Hut,
+"Anjuna, Goa, India",Anjuna," Goa, India",0,15.59,73.74,Pura Vida Ii By Hireavilla-3br W Pool In Anjuna,9,392,Entire Villa,4.79
+"Candolim, Goa, India",Candolim," Goa, India",0,15.51,73.77,4bhk Rosette Villa With Private Pool At Candolim,10,457,Entire Villa,
+"Assagao, Goa, India",Assagao," Goa, India",0,15.60,73.78,Daaya Luxury Private Pool 3bhk Villa At Assagao,6,451,Entire Villa,
+"Rishikesh, Uttarakhand, India",Rishikesh," Uttarakhand, India",0,30.12,78.31,Luxury Cottages | 4 Bedrooms | Scenic Views,11,449,Entire Cottage,
+"Manali, Himachal Pradesh, India",Manali," Himachal Pradesh, India",0,32.25,77.18,Perfect Cottage 1 Km From Mall Road,12,481,Private Room In Bed And Breakfast,
+"Gurugram, Haryana, India",Gurugram," Haryana, India",0,28.27,76.86,4 Bedroom Boutique Farmhouse With Common Pool,12,421,Entire Villa,4.54
+"Mumbai, Mh, India",Mumbai," Mh, India",1,19.13,72.81,Versova Beach Sunset With Mumbai Coastline View,4,428,Entire Condo,4.80
+"Navelim, Goa, India",Navelim," Goa, India",0,15.26,73.92,1bhk Ac Room With Swimming Pool,3,722,Room In Serviced Apartment,4.84
+"Kune N.M., Maharashtra, India",Kune N.M.," Maharashtra, India",0,18.76,73.39,Myna Villa I,16,397,Entire Villa,3.25
+"Haleyangadi, Karnataka, India",Haleyangadi," Karnataka, India",0,13.05,74.78,Mangalore Beach House: Villa Elegance,16,481,Entire Villa,
+"Mumbai, Maharashtra, India",Mumbai," Maharashtra, India",0,19.19,72.84,Kalpataru Hometel - Best Ac Bnb Rooms In Malad,16,481,Private Room In Bed And Breakfast,
+"Dodamarg Maharashtra, India",Dodamarg Maharashtra, India,0,15.68,74.05,Shivaaz Holiday Farms - Near Mopa Airport Goa,16,463,Farm Stay,
+"Rishikesh, Uttarakhand, India",Rishikesh," Uttarakhand, India",0,30.10,78.30,Meeram Ganga-Riverside Boutique Stay In Rishikesh,16,445,Room In Boutique Hotel,
+"Palampur, Himachal Pradesh, India",Palampur," Himachal Pradesh, India",0,32.11,76.54,4 Bed Room Boutique Villa/ Private Butler,10,460,Entire Villa,
+"Kochi, Kerala, India",Kochi," Kerala, India",0,9.97,76.24,Sea Facing Deluxe Suites In Fort Kochi - Cgh Earth,2,448,Room In Boutique Hotel,
+"Alappuzha, Kerala, India",Alappuzha," Kerala, India",0,9.46,76.36,Luxury Five Bedroom Private Houseboat,15,468,Boat,5.00
+"Varanasi, Uttar Pradesh, India",Varanasi," Uttar Pradesh, India",0,25.31,83.01,"Brijrama Palace, Experience Heritage With Luxury.",2,461,Room In Heritage Hotel,
+"Khingar, Maharashtra, India",Khingar," Maharashtra, India",0,17.91,73.83,Rustik Highland Villa,12,463,Entire Villa,
+"Udaipur, Rajasthan, India",Udaipur," Rajasthan, India",1,24.58,73.69,The Neem Tree Udaipur Boutique Retreat,16,481,Room In Boutique Hotel,
+"Kanthavli, Maharashtra, India",Kanthavli," Maharashtra, India",0,18.90,73.05,5 Bed Lavish Indoor Pool Villa On Rent Near Panvel,16,481,Entire Villa,
+"Lonavla, Maharashtra, India",Lonavla," Maharashtra, India",0,18.78,73.46,Casa Di Vetro By Lifestyle Villa-4bhk Luxury Villa,15,393,Entire Villa,
+"Penha De França, Goa, India",Penha De França," Goa, India",0,15.55,73.82,Dear Zindagi Villa !,10,481,Entire Villa,
+"Kodaikanal, Tamil Nadu, India",Kodaikanal," Tamil Nadu, India",0,10.26,77.48,"Le Mistral, Kodai - Luxury Villa",12,476,Entire Home,4.67
+"Candolim, Goa, India",Candolim," Goa, India",1,15.52,73.78,"3bd Pool Villa W/Cook,5 Mins To Candolim Beach",8,416,Entire Villa,4.94
+"Anjuna - Vagator, Goa, India",Anjuna - Vagator," Goa, India",0,15.60,73.75,Laviola-3bhk Lovely Private Pool Villa With Genset,7,410,Entire Home,4.73
+"Verla, Goa, India",Verla," Goa, India",1,15.59,73.79,Villa Lou Goa 1903 Heritage House Withprivate Pool,12,419,Entire Villa,5.00
+"Kothali, Uttarakhand, India",Kothali," Uttarakhand, India",0,30.22,79.37,Kothli Hills,10,460,Private Room In Earthen Home,
+"Candolim, Goa, India",Candolim," Goa, India",0,15.51,73.77,"White Banyan - 5 Bed, Private Pool, Beach Access",10,601,Entire Villa,4.40
+"Jaipur, Rajasthan, India",Jaipur," Rajasthan, India",0,26.82,75.70,Luxury Villa With Personal Pool,6,421,Entire Villa,4.33
+"Amritsar, Punjab, India",Amritsar," Punjab, India",0,31.69,74.81,Spring Gardens & Farmstay Amritsar,16,481,Farm Stay,5.00
+"Mumbai, Maharashtra, India",Mumbai," Maharashtra, India",0,19.15,72.89,Villa Hollywood With Private Pool & Huge Terrace.,16,481,Private Room In Villa,
+"Puthenvelikara, Kerala, India",Puthenvelikara," Kerala, India",0,10.18,76.24,Madilina House,10,409,Entire Villa,4.92
+"Ramnagar, Uttarakhand, India",Ramnagar," Uttarakhand, India",0,29.33,79.05,"Jaagar - A Family Retreat In Corbett, Ramnagar",12,481,Room In Resort,4.67
+"Lonavla, Maharashtra, India",Lonavla," Maharashtra, India",0,18.76,73.50,6 Bhk Private Pool Villa - Alpine Riverhill Villa,16,429,Entire Villa,
+"Pawna, Maharashtra, India",Pawna," Maharashtra, India",0,18.65,73.50,Blue Infinitum - Pool Villa With 180° View Of Lake,16,434,Entire Villa,5.00
+"Lonavla, Maharashtra, India",Lonavla," Maharashtra, India",0,18.75,73.41,"Luxurious 5bhk Bunglow ""60 Ml Chalet "" Max 35 Ppl",15,397,Entire Bungalow,4.83
+"Parra, Goa, India",Parra," Goa, India",0,15.57,73.78,Luxury Boutique Villa W/Pool In North Goa,12,421,Entire Villa,4.83
+"Bangalore Urban, Karnataka, India",Bangalore Urban," Karnataka, India",0,13.18,77.58,"Surabhi Villa, Off Airport Road, Bangalore",10,481,Entire Home,5.00
+"Lonavala, Maharashtra, India",Lonavala," Maharashtra, India",0,18.77,73.38,Whitehorse Villa,16,419,Entire Bungalow,4.67
+"Gurugram, Haryana, India",Gurugram," Haryana, India",0,28.41,77.11,Corbett Caravan Holidays In India By Rv On,4,481,Camper/Rv,
+"Bani Park, Rajasthan, India",Bani Park," Rajasthan, India",0,26.93,75.80,Wedding @ Bungalow With Garden & Pool,16,481,Castle,
+"Agra, Uttar Pradesh, India",Agra," Uttar Pradesh, India",1,27.14,78.05,Two Rooms Set With Rooftop Garden,4,481,Private Room In Home,4.57
+"Mussoorie, Uttarakhand, India",Mussoorie," Uttarakhand, India",0,30.45,78.08,Raghu Niwas - Your Home In The Hills,16,475,Room In Boutique Hotel,5.00
+"Dehradun, Uttarakhand, India",Dehradun," Uttarakhand, India",1,30.41,78.06,The Bluedoor Luxury Villa Close To Mussoorie,12,481,Entire Vacation Home,
+"Kasauli, Himachal Pradesh, India",Kasauli," Himachal Pradesh, India",1,30.90,77.02,Raiman House | 2+2bhk Home - By Homestaydaddy,12,481,Entire Condo,
+"Bhimtal, Uttarakhand, India",Bhimtal," Uttarakhand, India",0,29.36,79.54,Luxury At The Lap Of Nature At Anantvilas!,6,481,Private Room In Chalet,
+"Igatpuri, Maharashtra, India",Igatpuri," Maharashtra, India",0,19.69,73.58,Alluring 3 Bedroom Villa In Igatpuri,10,481,Entire Villa,
+"Jaipur, Rajasthan, India",Jaipur," Rajasthan, India",0,26.90,75.79,1 Manhattan •Luxurious 3 Bhk Penthouse•,7,478,Entire Condo,3.33
+"Panchgani, Maharashtra, India",Panchgani," Maharashtra, India",0,17.92,73.81,Hilltop'S Hashnoor Villa 21,16,481,Entire Villa,
+"Kotagiri, Tamil Nadu, India",Kotagiri," Tamil Nadu, India",0,11.43,76.86,Rayne Forest - Luxury 5 Br Villa In Kotagiri,16,471,Entire Villa,
+"Bengaluru, Karnataka, India",Bengaluru," Karnataka, India",0,12.87,77.58,"4x2bhk For Weddings, Haldi, Mehndi, Sangeet, 40pax",16,481,Entire Condo,5.00
+"Lonavla, Maharashtra, India",Lonavla," Maharashtra, India",0,18.78,73.39,9bhk || 30pax || Near Della || Mountain View.,16,479,Entire Villa,
+"Kasauli, Himachal Pradesh, India",Kasauli," Himachal Pradesh, India",0,30.89,76.97,Pine Peak Villa,16,430,Entire Villa,4.90
+"Chennai, Tamil Nadu, India",Chennai," Tamil Nadu, India",0,12.88,80.25,Costa Verde Seafront Villa With 24x7 Pool,15,398,Entire Home,4.75
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.57,77.16,Cameo Art House 1,2,481,Private Room In Bed And Breakfast,4.80
+"Kihim, Maharashtra, India",Kihim," Maharashtra, India",1,18.73,72.87,Luxury 3 Bhk Villa W Pvt Pool - 2 Mins To Beach,10,436,Entire Home,4.94
+"Indore, Madhya Pradesh, India",Indore," Madhya Pradesh, India",0,22.73,75.94,The Mangrove Villa,16,430,Entire Villa,
+"Krishnagiri, Tamil Nadu, India",Krishnagiri," Tamil Nadu, India",0,12.80,77.83,10 Bedrooms In A Resort With A Swimming Pool,16,421,Private Room In Resort,
+"Moira, Ga, India",Moira," Ga, India",0,15.59,73.84,"The Inner Temple Sanctuary, Moira, Goa",10,412,Entire Villa,4.88
+"Verla, Goa, India",Verla," Goa, India",0,15.59,73.78,Hendrix Luxury Villa With Private Pool,16,421,Entire Villa,4.75
+"Shashbani, Uttarakhand, India",Shashbani," Uttarakhand, India",0,29.43,79.68,4 Bedrooms At Mukteshwar; Miago,10,481,Entire Villa,
+"Alibag, Maharashtra, India",Alibag," Maharashtra, India",0,18.67,72.87,Private Villa In Alibaug-Mazzo Reef,4,481,Entire Home/Apt,
+"Anjuna, Goa, India",Anjuna," Goa, India",0,15.58,73.76,Frangipani Villa In Idyllic Laid Back Anjuna Goa,6,405,Entire Villa,4.86
+"Sheel, Himachal Pradesh, India",Sheel," Himachal Pradesh, India",0,31.15,77.70,7 Room Villa,14,467,Farm Stay,
+"Ahmedabad, Gujarat, India",Ahmedabad," Gujarat, India",0,23.07,72.56,Recently Renovated Bungalow In The Heart Of City,16,481,Entire Bungalow,4.62
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.46,77.20,Golden Arch-5 Bedroom Farm House,10,481,Entire Villa,4.57
+"Lonavla, Maharashtra, India",Lonavla," Maharashtra, India",0,18.75,73.37,"Bahisht, The Heritage Pool Villa",8,433,Entire Villa,5.00
+"Assagao, Goa, India",Assagao," Goa, India",1,15.60,73.78,"4 Bhk, A Perfect Luxury Villa, Assagaon-Amanassa 1",10,426,Entire Villa,4.80
+"Nerul, Goa, India",Nerul," Goa, India",0,15.50,73.80,"De La Mer, 4br Sea Facing Pool Villa In Nerul, Goa",12,407,Entire Villa,
+"Krishnagiri, Tamil Nadu, India",Krishnagiri," Tamil Nadu, India",0,12.80,77.83,Resort Stay With A Pool For Large Groups,16,421,Private Room In Resort,4.33
+"Anjuna, Goa, India",Anjuna," Goa, India",0,15.60,73.75,Lazamora-3bhk Lavish Villa With Private Pool,7,411,Entire Villa,
+"Canacona, Goa, India",Canacona," Goa, India",1,14.97,74.05,Pvt Pool-Villa Getaway 200m From Galgibaga Beach,7,421,Entire Villa,5.00
+"Pune, Maharashtra, India",Pune," Maharashtra, India",1,18.54,73.90,Jewelz 6 - Luxury Villa In Koregaon Park,16,440,Entire Bungalow,4.80
+"Goa, India",Goa, India,1,15.54,73.77,Mingle With The Stars In An Open To Sky Bathroom,16,425,Entire Home,4.92
+"Arpora, Goa, India",Arpora," Goa, India",0,15.55,73.76,6bhk Opulent Luxury Villa With Private Pool @ Baga,12,481,Entire Villa,
+"Pawnanagar, Maharashtra, India",Pawnanagar," Maharashtra, India",0,18.70,73.52,Dam View Villa 211 (Pure Veg),12,481,Farm Stay,
+"Sadahalli, Karnataka, India",Sadahalli," Karnataka, India",0,13.21,77.64,Swisstown Villa By Jadecaps|Theatre - Long Stays,12,454,Entire Villa,
+"Vashist, Himachal Pradesh, India",Vashist," Himachal Pradesh, India",0,32.28,77.18,"The Croft Manali- Entire Villa, Cottage, Homestay",6,472,Entire Cottage,
+"Baga, Goa, India",Baga," Goa, India",0,15.56,73.75,The Baga Villa Private Pool 5bhk,15,481,Entire Villa,
+"Goa, India",Goa, India,1,15.54,73.77,Private Luxury Home With Spacious Design,14,473,Entire Home,
+"Mandrem, Goa, India",Mandrem," Goa, India",0,15.66,73.72,"Goan House, Opposite Ashvem Beach, Complete Privcy",4,445,Entire Home,
+"Candolim, Goa, India",Candolim," Goa, India",0,15.51,73.79,4bhk Villa Belle Vue With Private Pool @Candolim,10,481,Entire Villa,
+"Karjat., Mh, India",Karjat.," Mh, India",0,19.72,73.03,Luxurious Maharaja Tents Near Karjat.Heart Nature.,16,481,Campsite,
+"Candolim, Goa, India",Candolim," Goa, India",0,15.52,73.76,Baleno Arco Villa,15,481,Entire Villa,
+"Hairiya Gaon, Uttarakhand, India",Hairiya Gaon," Uttarakhand, India",0,29.37,79.56,Villa Camelia By The Venya,6,457,Entire Home,
+"Dehradun, Uttarakhand, India",Dehradun," Uttarakhand, India",0,30.39,78.07,Malsi Loghut Dehradun-Private Cottage With Garden,5,421,Private Room In Bed And Breakfast,4.00
+"Ooty, Tamil Nadu, India",Ooty," Tamil Nadu, India",0,11.41,76.69,6 Bhk Greenwood- A Heritage Bungalow W/ Huge Lawn,16,465,Entire Villa,4.73
+"Calangute, Goa, India",Calangute," Goa, India",0,15.54,73.76,Lovely Wooden Cottage At Calungute,3,455,Room In Boutique Hotel,
+"Udaipur, Rajasthan, India",Udaipur," Rajasthan, India",0,24.59,73.71,"4 Burj, Jharokha Suits @Castle Oodeypore",12,481,Private Room In Castle,
+"Bagalur, Tamil Nadu, India",Bagalur," Tamil Nadu, India",0,12.86,77.88,Gruham By Chazing Purple,10,421,Farm Stay,
+"Kochi, Kerala, India",Kochi," Kerala, India",0,9.96,76.24,"Art Deco Bungalow With Private Pool, Fort Kochi",6,480,Entire Bungalow,
+"Candolim, Goa, India",Candolim," Goa, India",1,15.53,73.79,Whitehouse By Hireavilla - 3br W Valley View,9,399,Entire Villa,5.00
+"Kochi, Kerala, India",Kochi," Kerala, India",0,9.96,76.24,Beach Gate Bungalows With Private Pool - Cgh Earth,6,480,Entire Home,
+"Vagator, Goa, India",Vagator," Goa, India",0,15.59,73.75,Casa Amor In Assagao Is A 4 Bed Private Pool Villa,10,399,Entire Villa,
+"Lucknow, Uttar Pradesh, India",Lucknow," Uttar Pradesh, India",1,26.86,81.00,Luxe 9bhk Villa W/Ac Lounge & Terrace In Gomtingr,16,397,Entire Bungalow,5.00
+"Marudanapalli, Tn, India",Marudanapalli," Tn, India",0,12.54,77.76,Lush Resorts - 9 Villas With Private Pool,16,409,Private Room In Resort,
+"North Goa, Goa, India",North Goa," Goa, India",0,15.53,73.77,"5 Bed Independent Villa With Pvt. Pool, Calangute",15,475,Entire Home,
+"Vagator, Goa, India",Vagator," Goa, India",1,15.61,73.75,"Sol Sureno, Assagao - Luxury Private Bungalow",12,399,Entire Bungalow,4.90
+"Uttarakhand, India",Uttarakhand, India,1,30.06,78.52,Aashraya On The Ganga : Himalayan Farmstay Retreat,12,412,Farm Stay,4.50
+"Lonavala, Maharashtra, India",Lonavala," Maharashtra, India",0,18.76,73.40,5 Bedroom Spacious Family Home. Centrally Located,16,455,Entire Villa,4.50
+"Mumbai, Maharashtra, India",Mumbai," Maharashtra, India",0,19.14,72.79,#Shubham Villa Available For Events#,16,454,Entire Bungalow,
+"Alibag, Maharashtra, India",Alibag," Maharashtra, India",0,18.61,72.90,Pvt Resort With Pool At Nagaon Beach.,16,469,Entire Vacation Home,
+"Kanathur, Chennai, Tamil Nadu, India",Kanathur," Chennai, Tamil Nadu, India",0,12.85,80.25,"Exclusive Beach Villa @ Ecr, Chennai.",16,430,Entire Villa,4.80
+"Mandrem, Goa, India",Mandrem," Goa, India",0,15.67,73.71,Villa Mandrem - Luxury 1 Acre 5bhk Estate,12,397,Entire Villa,
+"Anjuna, Goa, India",Anjuna," Goa, India",0,15.60,73.75,Lazamora-3bhk Serene Private Pool Villa In Vagator,6,411,Entire Home,
+"Candolim, Bardez, India",Candolim," Bardez, India",0,15.52,73.77,8 Bhk Luxury Villa With Private Pool - Candolim,16,426,Entire Villa,
+"Anjuna, Goa, India",Anjuna," Goa, India",0,15.60,73.75,Lazamora-3bhk Pvt Pool Villa With Garden & Terrace,6,411,Entire Home,4.67
+"Pawnanagar, महाराष्ट्र, India",Pawnanagar," महाराष्ट्र, India",0,18.70,73.52,White Villa (127) - Amarja Hills,8,421,Farm Stay,
+"Udaipur, Rajasthan, India",Udaipur," Rajasthan, India",0,24.49,73.58,Twin Four Poster Room With View Of The City Palace,3,421,Private Room In Villa,
+"Anjuna, Goa, India",Anjuna," Goa, India",0,15.59,73.75,Individual Luxurious 5bhk Privatepool Villa Anjuna,15,409,Entire Villa,
+"Lonavala, Maharashtra, India",Lonavala," Maharashtra, India",0,18.73,73.37,Amidst Nature A Unique & Premium 9 Bedroom Villa,16,402,Entire Villa,
+"Candolim, Goa, India",Candolim," Goa, India",0,15.53,73.77,Looknomore 5br Pool Villa Candolim Beach 600m,13,409,Entire Villa,
+"Lonavla, Maharashtra, India",Lonavla," Maharashtra, India",0,18.70,73.45,6 Bedroom Villa Av Lakeside,15,427,Entire Villa,
+"Chennai, Tamil Nadu, India",Chennai," Tamil Nadu, India",0,12.98,80.27,Beach Elegance - Sea Side Bungalow,16,409,Entire Villa,4.75
+"Kodaikanal, Tamil Nadu, India",Kodaikanal," Tamil Nadu, India",1,10.25,77.48,Sama Farms,16,446,Farm Stay,
+"Anjuna, Goa, India",Anjuna," Goa, India",0,15.60,73.75,Lazamora | Jacuzzi | Genset | Wi-Fi | Anjuna,6,411,Entire Home,5.00
+"Dehradun, Uttarakhand, India",Dehradun," Uttarakhand, India",0,30.40,78.07,Lechateau - A Heritage French Colonial Estate,8,409,Entire Bungalow,
+"Mumbai, Maharashtra, India",Mumbai," Maharashtra, India",0,19.14,72.81,Entire Bungalow In Madh With Pvt Swimming Pool Xx2,16,391,Entire Bungalow,
+"Morve, Maharashtra, India",Morve," Maharashtra, India",0,18.65,73.44,Near Water Fall 3 Bhk With Private Swimming Pool,12,421,Private Room In Bungalow,
+"Khandala, Maharashtra, India",Khandala," Maharashtra, India",0,18.78,73.38,Casa Dios,16,476,Entire Villa,
+"Kotagiri, Tamil Nadu, India",Kotagiri," Tamil Nadu, India",0,11.41,76.89,Villa Mystique | Luxury 8br In Tea Plantations,16,487,Entire Villa,
+"Jaipur, Rajasthan, India",Jaipur," Rajasthan, India",0,26.90,75.86,Exclusive Palace Stay Sleeps 8. The Rani Vilas,8,421,Castle,4.64
+"Lonavala, Maharashtra, India",Lonavala," Maharashtra, India",0,18.75,73.40,Lonavalalake 7bhk Luxury Villa With Pool,15,481,Entire Villa,
+"Kutta, Ka, India",Kutta," Ka, India",0,11.96,76.02,7 Bedrooms # Private Riverside #Serenehome,16,421,Entire Place,
+"Puducherry, India",Puducherry, India,0,11.92,79.82,Luxury Villa With Private Pool,15,481,Entire Home,
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.50,77.14,Brookwood Gardens Swimming Pool Villa 5 Bhk,16,421,Farm Stay,
+"Chikkamagaluru, कर्नाटक, India",Chikkamagaluru," कर्नाटक, India",0,13.35,75.67,"Silver Fern, Homestay Near Bhadra Wildlife Santury",16,425,Private Room In Bed And Breakfast,
+"Calangute, Goa, India",Calangute," Goa, India",0,15.53,73.76,4 Bhk Super Luxury Apartment @ Candolim,10,430,Entire Serviced Apartment,
+"Diveagar, Karle, Maharashtra, India",Diveagar," Karle, Maharashtra, India",0,18.15,73.00,Red Stone Village Farmstays - Bungalow 1,12,421,Farm Stay,
+"Bhilar, Maharashtra, India",Bhilar," Maharashtra, India",0,17.91,73.76,Palatial Palace,16,481,Entire Villa,
+"Maravanthe, Karnataka, India",Maravanthe," Karnataka, India",0,13.73,74.64,Kundapura Beach Stay: Ac Deluxe Cottage,3,421,Private Room In Cottage,
+"Anjuna, Goa, India",Anjuna," Goa, India",0,15.60,73.75,Lazamora | Pool | 2.5 Km Beach | Wi-Fi | Anjuna,6,399,Entire Home,
+"Wavarle, Maharashtra, India",Wavarle," Maharashtra, India",0,18.92,73.28,"Stayvista At Twilight Grove - 4br W/ Bbq, Pool",12,410,Entire Villa,
+"Mount Abu, Rajasthan, India",Mount Abu," Rajasthan, India",0,24.60,72.71,Bungalow With Garden & Terrace Near Nakki Lake,14,421,Entire Home,
+"Candolim, Goa, India",Candolim," Goa, India",0,15.51,73.77,4bhk Lilac Villa With A Private Pool @ Candolim,10,421,Entire Villa,
+"Thattekad, Kerala, India",Thattekad," Kerala, India",0,10.11,76.70,Sparrow Vale Resorts-Entire Property For One Group,16,414,Entire Cottage,
+"Candolim, Goa, India",Candolim," Goa, India",0,15.52,73.77,Serene Garden 3bed,8,421,Entire Villa,
+"Nainital, Uttarakhand, India",Nainital," Uttarakhand, India",0,29.39,79.45,Emily Heritage Villa Nainital,12,421,Entire Cottage,
+"Kanatal, Uttarakhand, India",Kanatal," Uttarakhand, India",0,30.43,78.33,Avalon 5 Bedroom Cottage | Mountain View,10,463,Entire Chalet,4.66
+"Sangolda, Goa, India",Sangolda," Goa, India",0,15.55,73.81,Casa Da Rosa By Hireavilla - 4br W Private Pool,10,488,Entire Villa,4.87
+"Alibag, Maharashtra, India",Alibag," Maharashtra, India",1,18.73,72.89,Kapadia Bunglow,10,481,Entire Bungalow,4.90
+"Gokarna, Karnataka, India",Gokarna," Karnataka, India",1,14.54,74.34,Kahani Paradise By Hireavilla- 6br Overlooking Sea,3,472,Entire Villa,
+"Candolim, Goa, India",Candolim," Goa, India",0,15.53,73.77,Premium 8br Villa W Private Pool Nr Candolim Beach,16,474,Entire Villa,4.67
+"Anjuna, Goa, India",Anjuna," Goa, India",0,15.58,73.74,Serene Seven Frangipanni Villas Anjuna,12,443,Entire Home,5.00
+"Mandrem, Goa, India",Mandrem," Goa, India",0,15.67,73.72,The Mandrem House - 5bhk Luxury Villa With A Pool,14,440,Entire Villa,4.79
+"Satirje, Maharashtra, India",Satirje," Maharashtra, India",0,18.74,72.90,Baan Thai - 4 Bedroom Luxurious Villa In Alibag,8,464,Entire Villa,4.70
+"Gurugram, Haryana, India",Gurugram," Haryana, India",0,28.29,76.93,Simbliss Farmhouse With Pool Near Delhi & Gurgaon,12,472,Farm Stay,4.71
+"Reis Magos, Goa, India",Reis Magos," Goa, India",0,15.50,73.80,Bayview 4br Petfriendly Villa Pvtpool,8,464,Entire Villa,4.72
+"Karjat, Maharashtra, India",Karjat," Maharashtra, India",0,18.93,73.32,Jenjon Karjat Resort - Casa Rosa,8,394,Entire Villa,
+"Haripur, Himachal Pradesh, India",Haripur," Himachal Pradesh, India",0,32.15,77.16,Stayvista At Hilltop Haven - 6br✦Breakfast✦Bonfire,15,433,Entire Villa,
+"Alappuzha, Kerala, India",Alappuzha," Kerala, India",0,9.50,76.35,Angel Boat House 4 Bedroom,8,421,Houseboat,
+"New Delhi, Delhi, India",New Delhi," Delhi, India",0,28.44,77.21,The Tree House,2,469,Treehouse,
+"Udaipur, Rajasthan, India",Udaipur," Rajasthan, India",0,24.57,73.63,Beautiful Room In Bujera Fort 15 Minutes From City,3,421,Private Room In Villa,
+"Goa, India",Goa, India,0,15.53,73.76,3- Bedroom Villa With Pvt Swimming Pool,6,439,Private Room In Resort,
+"Bini, Himachal Pradesh, India",Bini," Himachal Pradesh, India",0,31.65,77.35,The Blue Sheep Tirthan,2,421,Room In Hotel,
+"Jojawar, Rajasthan, India",Jojawar," Rajasthan, India",0,25.53,73.76,"1br Luxury Suite Kesarbagh W/Balcony 01 , Jojawar",3,409,Room In Boutique Hotel,5.00
+"Udaipur, Rajasthan, India",Udaipur," Rajasthan, India",0,24.49,73.58,Beautiful Suite In Bujera Viewing The City Palace,3,421,Private Room In Villa,
+"Mukhteshwar, Uttrakhand, India",Mukhteshwar," Uttrakhand, India",0,29.46,79.66,The Orchard At Peora Estates | Royal Suite,2,391,Private Room In Bungalow,
+"Chaukariya, Rajasthan, India",Chaukariya," Rajasthan, India",0,24.52,73.62,Three Bedroom Villa With Pool In Udaipur,10,394,Farm Stay,
+"Kumarakom, Kerala, India",Kumarakom," Kerala, India",0,9.63,76.42,"Luxury Pool Villa, Coconut Lagoon - Cgh Earth",2,439,Room In Resort,
+"Candolim, Goa, India",Candolim," Goa, India",0,15.52,73.77,The Marine Beach Villa,12,433,Entire Villa,
+"Jaipur, Rajasthan, India",Jaipur," Rajasthan, India",0,27.00,75.80,Organic Farm Stay With Clay Oven In Jaipur,10,421,Farm Stay,
+"Nawanpind Sardaran, Punjab, India",Nawanpind Sardaran," Punjab, India",0,31.98,75.40,"The Kothi, Village Stay, Punjab, India (Villa)",12,421,Farm Stay,4.75
+"Kodaikanal, Tamil Nadu, India",Kodaikanal," Tamil Nadu, India",0,10.25,77.47,Sunriseonhills Will Be A Perfect Place To Unwind.,16,421,Private Room In Villa,
+"Maravanthe, Karnataka, India",Maravanthe," Karnataka, India",0,13.73,74.64,Kundapura Beach Stay: Ac Sun Cottage,2,421,Private Room In Cottage,
+"Lonavla, Maharashtra, India",Lonavla," Maharashtra, India",1,18.76,73.44,3bhk Pool Villa 36 By The Rentalgram,10,150,Entire Villa,4.70
+"Nedumudy, Kerala, India",Nedumudy," Kerala, India",0,9.42,76.41,"4br Riverside Hideaway W/ 2 Pvt Pools, Alleppey",8,433,Private Room In Nature Lodge,
+"Udupi, Karnataka, India",Udupi," Karnataka, India",0,13.38,74.70,Udupi Beach House: Seascape,10,149,Private Room In Bungalow,4.83
+"Jaipur, Rajasthan, India",Jaipur," Rajasthan, India",0,26.92,75.80,Alsisar Haveli - A Heritage Home,2,132,Entire Serviced Apartment,4.93
+"Penha De França, Goa, India",Penha De França," Goa, India",1,15.52,73.82,Luxury Service Apartments W/Pool In North Goa,12,130,Room In Serviced Apartment,4.71
+"Jaipur, Rajasthan, India",Jaipur," Rajasthan, India",0,26.90,75.82,Royal Suite !,2,131,Room In Heritage Hotel,4.76
+"Vagator, Goa, India",Vagator," Goa, India",1,15.60,73.75,5 Star Luxe Villa North Goa With Olympic Size Pool,10,150,Entire Villa,4.94
+"Candolim, Goa, India",Candolim," Goa, India",1,15.51,73.77,Serenidad - 3bhk Penthouse With Private Terrace!,8,148,Entire Serviced Apartment,4.68
+"Lonavla, Maharashtra, India",Lonavla," Maharashtra, India",0,18.78,73.39,The Most Luxurious Villa With Private Swimming,16,133,Entire Villa,3.83
+"Marsur, Karnataka, India",Marsur," Karnataka, India",0,12.76,77.70,"Cedar House Farm Stay, 20 Mins From Koramangala",12,135,Farm Stay,4.86
+"Lonavala, Maharashtra, India",Lonavala," Maharashtra, India",0,18.76,73.40,Elegant Villa: Luxury 4bhk By Limestays,16,133,Entire Villa,4.57
+"Assagao, Goa, India",Assagao," Goa, India",0,15.60,73.77,Indo - Portuguese Villa In Assagao,7,147,Entire Villa,4.55
+"Siolim, Goa, India",Siolim," Goa, India",1,15.62,73.77,Riviera Sublime 3bhk Villa,10,137,Entire Villa,4.78
+"Nainital, Uttarakhand, India",Nainital," Uttarakhand, India",0,29.51,79.64,Meraki @ The Woodhouse Farm,6,153,Farm Stay,5.00
+"Varca, India",Varca, India,0,15.22,73.94,A Cosy Villa Near The Beach In Goa,10,134,Entire Villa,4.60
+"Nainital, Uttarakhand, India",Nainital," Uttarakhand, India",0,29.46,79.65,Sara'S Chalet Two With Garden View,5,149,Entire Chalet,4.42
+"Kodaikanal, Tamil Nadu, India",Kodaikanal," Tamil Nadu, India",1,10.27,77.47,Anisree (4 Bedroom Home With Valley View),8,151,Entire Home,4.81
+"Gurugram, Haryana, India",Gurugram," Haryana, India",0,28.36,76.95,"Farm Villa With Pool Near Nh 8, Bonfire",14,132,Entire Home,3.85
+"Goa, India",Goa, India,1,15.51,73.77,3 Bhk Luxury Beach Villa. Happy 2 U Candolim.,10,139,Entire Bungalow,4.92
+"Pravithanam, Kerala, India",Pravithanam," Kerala, India",0,9.74,76.74,Pool Villa - The Humming Trees,16,192,Entire Villa,4.92
+"Lonavala, Maharashtra, India",Lonavala," Maharashtra, India",0,18.73,73.40,Stayvista Scenic View - 4br Bungalow 89,12,193,Entire Villa,4.36
+"Gurugram, Haryana, India",Gurugram," Haryana, India",1,28.29,76.93,Farm The Retreat | With Private Pool,6,196,Farm Stay,4.74
+"Chapora, Goa, India",Chapora," Goa, India",0,15.61,73.74,Elsereno-2bhk Apt With Private Garden-North Goa,4,140,Entire Rental Unit,4.77
+"Lanja, Maharashtra, India",Lanja," Maharashtra, India",0,16.88,73.47,Terrakot....A Mango Breeze!,9,192,Farm Stay,
+"Panchgani, Maharashtra, India",Panchgani," Maharashtra, India",1,17.94,73.81,Valley View Bungalow On Rent In Panchgani,16,190,Entire Home,4.91
+"Lonavala, Maharashtra, India",Lonavala," Maharashtra, India",0,18.76,73.40,Shalimar Royal: Luxurious 4bhk Villa By Limestays,16,133,Entire Villa,4.41
+"Jaipur, Rajasthan, India",Jaipur," Rajasthan, India",0,26.98,75.78,Alberto Villa' -High End Luxury Mansion With Pool,10,192,Entire Villa,
+"Ranga Reddy, Telangana, India",Ranga Reddy," Telangana, India",0,17.29,78.23,Experience Serenity At This 2bhk Pool Property,14,192,Entire Villa,5.00
+"Lonavala, Maharashtra, India",Lonavala," Maharashtra, India",1,18.75,73.42,Modi House,16,194,Entire Bungalow,4.66
+"Nainital, Uttarakhand, India",Nainital," Uttarakhand, India",0,29.42,79.55,Sara'S Chalet Three W/ Lawn,5,132,Entire Chalet,4.43
+"Colva, Goa, India",Colva," Goa, India",0,15.28,73.92,Luxurious 3bhk Villa With Private Pool At Colva,9,191,Entire Home,3.20
+"Jaipur, Rajasthan, India",Jaipur," Rajasthan, India",0,26.93,75.89,4 Br Artisana Farm With Swimming Pool In Jaipur,10,129,Farm Stay,4.49
+"Vagator, Goa, India",Vagator," Goa, India",1,15.60,73.76,"3bhk Luxury Villa-Villa Da' Sixth, Vagator- Anjuna",8,141,Entire Villa,4.83
+"Alto Porvorim, Goa, India",Alto Porvorim," Goa, India",1,15.52,73.82,Serviced Apartments W Pool & Breakfast For Upto 12,12,133,Room In Serviced Apartment,5.00
+"Dhanolti, Uttarakhand, India",Dhanolti," Uttarakhand, India",1,30.45,78.20,A Secluded Wood Cabin @ Dhanaulti (Falcon Crest ),4,135,Entire Cabin,4.89
+"Baga, Goa, India",Baga," Goa, India",0,15.56,73.76,Cute 3 Bedroom Villa 300m From Baga Beach,6,129,Entire Villa,4.53
+"Chennai, Tamil Nadu, India",Chennai," Tamil Nadu, India",0,12.71,80.23,"B'S Hive On The Beach - ""Kadal""",10,137,Entire Cottage,4.78
+"Manali, Himachal Pradesh, India",Manali," Himachal Pradesh, India",1,32.25,77.18,4bhk: The Forestbound Cottage,10,153,Entire Villa,5.00
+"Sangolda, Goa, India",Sangolda," Goa, India",0,15.55,73.80,Baga/Calangute 7min Drive- 3bhk Villa With Pool,12,137,Entire Villa,4.44
+"Igatpuri, Maharashtra, India",Igatpuri," Maharashtra, India",0,19.68,73.58,Cabaral Villa: Artsy 3bhk With Pool By Limestays,16,137,Entire Villa,4.40
+"Kasauli, Hp, India",Kasauli," Hp, India",0,30.90,77.02,The Anchorage By Sonali - Kasauli,6,139,Entire Cottage,4.75
+"New Delhi, Delhi, India",New Delhi," Delhi, India",1,28.52,77.14,Villa Spend Time And Make Memories,10,150,Entire Villa,
+"Nalambi, Maharashtra, India",Nalambi," Maharashtra, India",1,19.23,73.22,"Jumbo Pool Villa, Ambernath",12,152,Farm Stay,4.80
+"Sughandhagiry, Kerala, India",Sughandhagiry," Kerala, India",0,11.58,76.00,A Frame Wildrootstay Orchid Family Chalet,6,131,Farm Stay,3.80
+"Chalnichhina, Uttarakhand, India",Chalnichhina," Uttarakhand, India",1,29.55,79.81,Hushstay X House On The Slope :Facing The Himalaya,6,192,Farm Stay,5.00
+"Goa, India",Goa, India,1,15.60,73.76,"Vagator ,Cosy & Modern 3 Bedroom Villa For 8",8,196,Entire Villa,5.00
+"Munnar, Kerala, India",Munnar," Kerala, India",0,10.16,77.17,"Nature Castle(Willus Villa),Munnar,Vattavada",16,154,Entire Villa,4.53
